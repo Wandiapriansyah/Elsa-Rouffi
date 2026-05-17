@@ -446,7 +446,7 @@ section.top-cover .inner::before {
 section.top-cover .inner .head {
     z-index: 2;
     text-align: center;
-    margin-top: auto;
+    margin-top: 5rem;
     margin-bottom: auto;
 }
 section.top-cover .inner .head h1 {
